@@ -16,6 +16,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MarceloGBbarros/react.git",
+    "accountId": "59f09c91-871a-49ea-bc0a-0eb8eebb01db"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\ruido\Desktop\php-8.3.6\php.exe" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -70,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724335053918</updated>
-      <workItem from="1724335055046" duration="1139000" />
+      <workItem from="1724335055046" duration="1528000" />
     </task>
     <servers />
   </component>
