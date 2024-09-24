@@ -1,8 +1,10 @@
 //components
 import FirstComponent from "./components/FristComponent";
 import TemplateExpressions from "./components/TemplateExpressions";
+import MyComponent from "./components/MyComponent";
 //styles
 import './App.css';
+
 
 
 function App() {
@@ -11,6 +13,7 @@ function App() {
       <h1>Fundamentos react</h1>
         <FirstComponent/>
         <TemplateExpressions/>
+        <MyComponent/>
     </div>
   );
 }
